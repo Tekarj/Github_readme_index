@@ -31,3 +31,5 @@
 * Full template in English: https://github.com/othneildrew/Best-README-Template
 
 
+## Markdown guiding - github: 
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
